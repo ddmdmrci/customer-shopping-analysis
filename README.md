@@ -1,48 +1,62 @@
 # Customer Shopping Data Analysis
 
 ## Overview
-This project analyzes customer shopping behavior using a retail dataset. The goal is to uncover patterns in purchasing behavior and provide actionable insights to improve sales and customer loyalty.
+This project analyzes customer shopping behavior using a retail dataset. The objective is to identify patterns, trends, and actionable insights that can support data-driven business decisions and improve customer loyalty.
 
-## Dataset
-The dataset includes:
-- Customer demographics (age, gender)
+---
+
+## Project Objectives
+- Understand customer purchasing behavior
+- Identify high-value customer segments
+- Analyze spending patterns across demographics
+- Provide business recommendations based on data
+
+---
+
+## Dataset Description
+The dataset contains transactional and customer-level information, including:
+- Age and gender of customers
 - Product categories
 - Quantity and price
 - Payment methods (cash, credit card, debit card)
 - Transaction dates
 - Shopping mall locations
 
-## Data Cleaning
-The dataset was preprocessed to ensure accuracy and reliability:
-- Handled missing values
-- Checked and removed duplicates
-- Corrected data types
-- Identified and treated outliers
-- Used histograms and boxplots to explore data distribution
+---
 
-## Analysis
-Several analyses were performed:
-- Customer segmentation by age groups
-- Spending behavior comparison by gender
-- Relationship between age and spending
-- Descriptive statistics and data exploration
+## Data Cleaning & Preparation
+To ensure data quality, the following steps were performed:
+- Missing values handled appropriately
+- Duplicate records checked and removed
+- Data types corrected
+- Outliers detected using boxplots
+- Distribution analyzed using histograms
 
-## Visualizations
-The project includes:
-- Histograms
-- Boxplots
-- Scatter plots
-- Line charts for sales trends
+---
+
+## Exploratory Data Analysis (EDA)
+Key analyses include:
+- Spending behavior by age groups
+- Gender-based comparison of spending
+- Relationship between age and spending (scatter analysis)
+- Descriptive statistics for key variables
+
+---
 
 ## Key Insights
-- Certain age groups demonstrate higher spending patterns
-- Payment method preferences influence customer behavior
-- Customer segmentation can improve targeted marketing strategies
+- Younger and middle-aged customers tend to have higher spending levels
+- Payment method preferences vary across customer segments
+- Certain categories and customer groups contribute more to total revenue
+
+---
 
 ## Business Recommendations
-- Focus marketing campaigns on high-spending customer segments
-- Optimize payment options based on customer preferences
-- Use data-driven strategies to improve customer retention and loyalty
+- Target high-spending age groups with personalized marketing campaigns
+- Optimize payment options to match customer preferences
+- Use customer segmentation to improve marketing efficiency
+- Focus on data-driven strategies to increase customer retention
+
+---
 
 ## Tools & Technologies
 - Python
@@ -50,6 +64,13 @@ The project includes:
 - NumPy
 - Matplotlib
 
-## Files
-- `Assignment 1.ipynb`: Main analysis notebook
-- `customer_shopping_data.csv`: Dataset used for analysis
+---
+
+## Project Structure
+- `Assignment 1.ipynb` → Main analysis notebook  
+- `customer_shopping_data.csv` → Dataset  
+
+---
+
+## Author
+This project was developed as part of a Business Analytics assessment, demonstrating data cleaning, analysis, visualization, and business insight generation skills.
