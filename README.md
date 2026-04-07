@@ -29,21 +29,21 @@ Statistical and exploratory analysis of biological data.
 ## 📈 Key Visualizations
 
 ### 🔥 Correlation Heatmap
-![Correlation Heatmap](correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap_koala_dataset.png)
 
 📌 Shows relationships between variables to support feature selection.
 
 ---
 
 ### 📦 Paw Size by Gender
-![Paw Size](paw_size_by_gender.png)
+![Paw Size](koala_paw_size_by_gender.png)
 
 📌 Highlights distribution differences between male and female koalas.
 
 ---
 
 ### 📏 Total Length by Gender
-![Total Length](total_length_by_gender.png)
+![Total Length](koala_total_length_by_gender.png)
 
 📌 Compares body length variation across genders.
 
