@@ -1,69 +1,73 @@
-# Data Analysis Portfolio
+# 📊 Data Analysis Portfolio
 
-## Overview
-This repository contains multiple data analysis projects demonstrating data cleaning, exploratory data analysis (EDA), visualization, statistical analysis, and data-driven insights using Python.
-
----
-
-## Projects
-
-### Assignment 1 – Customer Shopping Analysis
-This project analyzes customer shopping behavior to uncover patterns and provide business recommendations.
-
-**Key Tasks**
-- Data cleaning and preprocessing  
-- Handling missing values and outliers  
-- Exploratory data analysis (EDA)  
-- Data visualization (histograms, boxplots, scatter plots)  
-
-**Key Insights**
-- Identified spending patterns across customer segments  
-- Analyzed differences in behavior by age and gender  
-- Explored customer payment method preferences  
-- Provided actionable business recommendations  
+Welcome to my data analysis portfolio showcasing projects in **data cleaning, statistical analysis, and visualization using Python**.
 
 ---
 
-### Assignment 2 – Koala Data Analysis
-This project applies statistical analysis and predictive modeling to biological data related to koalas.
+## 🚀 Projects
 
-**Key Tasks**
-- Data cleaning and preparation  
-- Exploratory data analysis  
-- Data visualization  
-- Hypothesis testing  
-- Regression modeling  
-- Correlation analysis  
+### 🛍️ Customer Shopping Analysis
+Analyze customer behavior and generate business insights.
 
-**Key Insights**
-- Identified relationships between koala physical characteristics  
-- Tested statistical differences between groups (e.g., gender)  
-- Built predictive models for total length estimation  
-- Connected findings to real-world conservation strategies  
+✔ Data cleaning & preprocessing  
+✔ Exploratory data analysis (EDA)  
+✔ Customer segmentation insights  
+✔ Business recommendations  
 
 ---
 
-## Tools & Technologies
-- Python  
-- Pandas  
-- NumPy  
-- Matplotlib  
+### 🐨 Koala Data Analysis
+Statistical and exploratory analysis of biological data.
+
+✔ Hypothesis testing  
+✔ Correlation analysis  
+✔ Regression modeling  
+✔ Data visualization  
 
 ---
 
-## Files
-- `Assignment1.ipynb` → Customer shopping analysis  
-- `Assignment2.ipynb` → Koala statistical analysis  
-- `customer_shopping_data.csv` → Dataset (Assignment 1)  
-- `koalas_dataset.xlsx` → Dataset (Assignment 2)  
+## 📈 Key Visualizations
+
+### 🔥 Correlation Heatmap
+![Correlation Heatmap](correlation_heatmap.png)
+
+📌 Shows relationships between variables to support feature selection.
 
 ---
 
-## Sample Visualization
+### 📦 Paw Size by Gender
+![Paw Size](paw_size_by_gender.png)
 
-![Analysis](chart.png)
+📌 Highlights distribution differences between male and female koalas.
 
 ---
 
-## Author
-This portfolio was developed as part of Business Analytics coursework, demonstrating practical data analysis and problem-solving skills.
+### 📏 Total Length by Gender
+![Total Length](total_length_by_gender.png)
+
+📌 Compares body length variation across genders.
+
+---
+
+## 🧠 Key Insights
+
+💡 Strong relationship between body length and chest circumference  
+💡 Gender-based variation observed in physical measurements  
+💡 Data supports predictive modeling potential  
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|------|--------|
+| Python | Data analysis |
+| Pandas | Data manipulation |
+| NumPy | Numerical computation |
+| Matplotlib | Visualization |
+
+---
+
+## 📁 Project Structure
+
+
